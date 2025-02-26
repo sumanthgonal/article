@@ -57,7 +57,7 @@ This project can be easily deployed on platforms like Netlify or Vercel. Follow 
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://your-live-demo-link.com).
+Check out the live demo of the project [here(https://cute-muffin-efbe96.netlify.app/category/politics).
 
 ## Contributing
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact me at [your-email@example.com].
+For any questions or feedback, please contact me at [sumanthgonal305@gmail.com].
